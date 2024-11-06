@@ -1,8 +1,8 @@
 # Giovanni Moreira (4Diovanni), mas pode me chamar de Dio! 👋
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=4Diovanni&show_icons=true&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Diovanni&layout=compact&theme=dark" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=4Diovanni&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Diovanni&layout=compact&theme=tokyonight" />
 </div>
 
 ## Sobre Mim
