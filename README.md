@@ -29,6 +29,6 @@ Olá! Sou Giovanni Moreira, desenvolvedor e entusiasta de automação de process
 Se você quiser saber mais sobre meu trabalho ou discutir automação de processos e análise de dados, sinta-se à vontade para me enviar uma mensagem ou conectar-se comigo:
 
 - 💼 LinkedIn: [Giovanni Moreira](https://www.linkedin.com/in/giovanni-moreira-64654a254/)
-- ✉️ E-mail: [diovanni.2566@gmail.com]
+- ✉️ E-mail: [diovanni.2566@gmail.com](mailto:diovanni.2566@gmail.com)
 
 Obrigado e tenha um ótimo dia!
