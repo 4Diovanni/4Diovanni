@@ -14,7 +14,7 @@
 ## 🔭 Sobre Mim
 
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas (ADS) na Faculdade Impacta.  
-- 🤖 Entusiasta de **automação de processos** e **análise de dados** na Allcare Gestora de Saúde.  
+- 🤖 Entusiasta de **automação de processos** e **análise de dados**.
 - 🛠️ Adoro transformar dados brutos em insights valiosos usando **Python**, **SQL** e bibliotecas de Data Science.  
 
 ---
