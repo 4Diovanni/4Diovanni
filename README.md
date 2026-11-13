@@ -18,8 +18,7 @@
 <p>
   <a href="https://www.linkedin.com/in/giovanni-moreira-64654a254/"><img src="https://img.shields.io/badge/LinkedIn-Giovanni%20Moreira-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:diovanni.2566@gmail.com"><img src="https://img.shields.io/badge/E--mail-diovanni.2566%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
-  <img src="https://img.shields.io/badge/S%C3%A3o%20Paulo%2C%20SP-remoto%20ou%20h%C3%ADbrido-2b3137?style=flat-square&logo=googlemaps&logoColor=white" alt="São Paulo, SP · remoto ou híbrido" />
-  <img src="https://img.shields.io/badge/dispon%C3%ADvel-in%C3%ADcio%20imediato-6DB33F?style=flat-square" alt="Disponível para início imediato" />
+  <img src="https://img.shields.io/badge/S%C3%A3o%20Paulo%2C%20SP-remoto%20ou%20h%C3%ADbrido-2b3137?style=flat-square&logo=googlemaps&logoColor=white" alt="São Paulo, SP - remoto ou híbrido" />
 </p>
 
 </div>
