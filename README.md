@@ -25,9 +25,9 @@
 
 ## Sobre mim
 
-Sou desenvolvedor back-end em São Paulo, com foco em **Java e Spring Boot**. Procuro uma vaga de **Desenvolvedor Back-end Júnior ou Pleno I**.
+Sou desenvolvedor back-end em São Paulo, com foco em **Java e Spring Boot**.
 
-- 🔧 **Sustentação em produção:** de dez/2025 a out/2026 fui Engenheiro de Software Júnior num hub de integração conectado a **mais de 15 marketplaces e plataformas de e-commerce**. Investigava e corrigia bugs de produto e de regra de negócio em Java 8, refatorava código legado, escrevia testes a cada correção e subia para produção com validação em homologação, script de rollback e monitoramento pós-deploy.
+- 🔧 **Sustentação em produção:** Engenheiro de Software Júnior num hub de integração conectado a **mais de 15 marketplaces e plataformas de e-commerce**. Investigava e corrigia bugs de produto e de regra de negócio em Java 8, refatorava código legado, escrevia testes a cada correção e subia para produção com validação em homologação, script de rollback e monitoramento pós-deploy.
 - 🐍 **Automação com Python:** antes disso, na área de saúde, criei um robô em Selenium e Pandas que extraía e padronizava relatórios de portais de operadoras e economizava **cerca de 36 horas por mês** na conciliação de beneficiários.
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas na Faculdade Impacta (conclusão prevista para dez/2027) e PROPROFISSÃO 4.0 no Instituto PROA (440h, Java, Spring Boot e MySQL).
 - 🌱 **Agora:** evoluindo o [`marketplace-order-hub`](https://github.com/4Diovanni/marketplace-order-hub) com fila com retry e dead letter, assinatura HMAC nos webhooks e cancelamento com devolução de estoque ([issues abertas](https://github.com/4Diovanni/marketplace-order-hub/issues)).
